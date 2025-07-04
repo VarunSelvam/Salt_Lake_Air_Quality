@@ -1,4 +1,4 @@
-# Salt_Lake_Air_Quality
+# Salt Lake Air Quality
 Created a PostgreSQL Database to analyze the air quality in Salt Lake City over 20 years from 2003 to 2023. Data in the years 2003, 2013 and 2023 was collected from the Environmental Protection Agency to create the database. (A few queries however were performed for **all** counties in the United States.
 
 ## Dataset Link: 
